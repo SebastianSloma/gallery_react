@@ -1,5 +1,6 @@
 /* eslint-disable jsx-a11y/alt-text */
 import React from 'react';
+import './gallery.css'
 import Img1 from './img/img1.jpg'
 import Img2 from './img/img2.jpg'
 import Img3 from './img/img3.jpg'
